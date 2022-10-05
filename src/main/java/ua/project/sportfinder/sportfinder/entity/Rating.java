@@ -1,2 +1,4 @@
-package ua.project.sportfinder.sportfinder.entity;public class Rating {
+package ua.project.sportfinder.sportfinder.entity;
+
+public class Rating {
 }
